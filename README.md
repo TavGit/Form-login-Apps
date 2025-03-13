@@ -1,5 +1,15 @@
 # gustav_login
 
+Tugas Minggu Pertama
+Membuat sebuah:
+
+Field Username
+Field Password
+Halaman Login
+
+Project ini dibuat sendiri oleh gustav ibrahim
+
+
 A new Flutter project.
 
 ## Getting Started
